@@ -202,10 +202,11 @@ img.theme-light { display: block !important; }
 img.theme-dark { display: block !important; }
 
 .og-imperial .og-oz { display: inline; }
+.og-imperial img.og-oz { display: block; }
 .og-imperial .og-ml { display: none; }
 .og-metric .og-ml { display: inline; }
+.og-metric img.og-ml { display: block; }
 .og-metric .og-oz { display: none; }
-
 
 /* anchor link iconography - position */
 h2 a.og-h-anchor,
