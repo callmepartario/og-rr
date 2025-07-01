@@ -150,6 +150,8 @@ h3 {
 	font-weight: 700;
 	border-top: 0.08rem solid;
 	padding-top: 0.75rem;
+	text-transform: none;
+	font-variant: small-caps !important;
 }
 .theme-light h3 {
 	border-color: #9cd;
@@ -198,6 +200,12 @@ img.og-icon {
 }
 img.theme-light { display: block !important; }
 img.theme-dark { display: block !important; }
+
+.og-imperial .og-oz { display: inline; }
+.og-imperial .og-ml { display: none; }
+.og-metric .og-ml { display: inline; }
+.og-metric .og-oz { display: none; }
+
 
 /* anchor link iconography - position */
 h2 a.og-h-anchor,
@@ -348,7 +356,8 @@ ul.og-qr-compact li {
 	font-weight: 300;
 	font-size: 0.75rem;
 	font-weight: 300;
-	max-width: 500px;
+	min-width: 350px;
+	max-width: 350px;
 	text-align: left;
 	padding: 0.5rem 0.75rem 0rem 0.75rem !important; 
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
