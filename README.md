@@ -4,6 +4,10 @@ https://callmepartario.github.io/og-rr/
 
 Right now, thi s is just a personal recipe book. Still working on making it what it needs to be. If you don't already know how to read a cocktail recipe, this page won't be much use to you just yet.
 
+- partario.flynn@gmail.com
+- [@oldgus@dice.camp](https://dice.camp/@oldgus)
+- [Ko-fi](https://ko-fi.com/oldgus)
+
 ## More from Old Gus
 
 - [Old Gus' Cypher System Reference Document (OG-CSRD)](https://callmepartario.github.io/og-csrd/)
