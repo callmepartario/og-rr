@@ -352,6 +352,7 @@ ul.og-qr-compact li {
 .tooltip.show {
 	opacity: 1.0;
 }
+.tooltip-arrow::before { display: none; }
 .tooltip-inner {
 	font-family: 'Inria Serif';
 	font-weight: 300;
